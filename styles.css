@@ -1,0 +1,46 @@
+.header {
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+}
+
+.nav_menu { background-color: rgb(255, 115, 0);
+    text-align:center;
+    padding: 15px 
+
+
+}
+.left{
+    width: 34%;
+    background: rgb(255, 0, 0);
+    float: left;
+    height: 400px;
+    text-align: center;
+    
+    
+}
+
+.center{
+    width: 33%;
+    background: blue;
+    float: left;
+    height: 400px;
+    text-align: center;
+}
+.right {
+    width: 33%;
+    background: rgba(6, 240, 64, 0.911);
+    float: left;
+    height: 400px;
+    text-align: center;
+    
+    
+}
+.footer{
+    
+    background-color: cyan;
+    text-align:center;
+    padding: 10px 10px
+
+    
+}
